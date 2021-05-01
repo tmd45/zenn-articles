@@ -1,0 +1,11 @@
+{
+  "name": "zenn-articles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/tmd45/zenn-articles.git",
+  "author": "tmd45 <tmd45@otegami.jpn.org>",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.79"
+  }
+}
