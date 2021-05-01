@@ -3,7 +3,7 @@ title: "Docusaurus v2 を日本語化"
 emoji: "🦕"
 type: "tech"
 topics: ["docusaurus"]
-published: false
+published: true
 ---
 
 :::message
@@ -46,3 +46,5 @@ module.exports = {
 ```
 
 コンテンツ本体も、デフォルトの `docs`, `blog` などのディレクトリの中身を単純に日本語で作成します。
+
+もちろん日本語以外でも、デフォルトにしたい言語が１つで良い場合はこの方法で対応可能です。
