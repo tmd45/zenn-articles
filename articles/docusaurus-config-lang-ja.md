@@ -3,6 +3,7 @@ title: "Docusaurus v2 を日本語化"
 emoji: "🦕"
 type: "tech"
 topics: ["docusaurus"]
+publication_name: "socialplus"
 published: true
 ---
 
