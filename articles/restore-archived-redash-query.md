@@ -7,7 +7,7 @@ publication_name: "socialplus"
 published: true
 ---
 
-Redash では UI 上からクエリのアーカイブが可能だが、アーカイブしたクエリを復元することはできません。  
+Redash では UI 上からクエリのアーカイブが可能ですが、アーカイブしたクエリを復元することはできません。  
 アーカイブしたクエリを復元したい場合は Redash API を利用する必要があります。
 
 - [Redash - Integrations and API](https://redash.io/help/user-guide/integrations-and-api/api)
