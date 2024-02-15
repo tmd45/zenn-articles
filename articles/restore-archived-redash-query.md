@@ -1,6 +1,6 @@
 ---
 title: "Redash でアーカイブしたクエリを元に戻す"
-emoji: "🚯"
+emoji: "♻️"
 type: "tech"
 topics: ["redash"]
 publication_name: "socialplus"
